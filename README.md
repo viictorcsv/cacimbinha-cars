@@ -33,4 +33,4 @@ Este projeto está sob domínio de Pedro Victor.
 
 - [ ] Pedro Victor - [LinkedIn](https://www.linkedin.com/in/pedro-victor-8674b622a/)
 - [ ] Email: pvictors152004@gmail.com
-- [ ] Instagram: @pe_viic
+- [ ] Instagram: @viictorcsv
